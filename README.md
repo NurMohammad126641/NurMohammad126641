@@ -13,7 +13,18 @@ I build Python automation, data pipelines and AI-powered tools for fintech and m
 - **n8n Workflows**: daily end-of-day reports to management, plus real-time alerts when a system goes down.
 - **Central PostgreSQL Data Warehouse** *(in progress)*: Python ETL/ELT pipelines bringing multi-source financial data together.
 
-> These systems run in production at work, so their code is private.
+> These systems run in production at work, so their code is private. Here is what two of them look like (the screenshots use demo data):
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/metabase-microfinance-dashboard.png" alt="Metabase microfinance operations dashboard with loan status, collections, disbursement by zone and a division map" height="300"></td>
+    <td align="center"><img src="assets/gemini-analytics-chatbot.jpg" alt="AI analytics chatbot answering a plain-English revenue question with a daily bar chart" height="300"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Metabase Microfinance Dashboard</b></td>
+    <td align="center"><b>AI Analytics Chatbot</b> (Gemini function calling)</td>
+  </tr>
+</table>
 
 ### 🧰 Open-source projects
 
