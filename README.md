@@ -15,6 +15,17 @@ I build Python automation, data pipelines and AI-powered tools for fintech and m
 
 > These systems run in production at work, so their code is private.
 
+### 🧰 Open-source projects
+
+| Project | What it shows |
+|---|---|
+| [**payments-ops-monitoring**](https://github.com/NurMohammad126641/payments-ops-monitoring) | Config-driven monitoring for a payments platform: parallel read-only PostgreSQL metrics feed Google Sheets and Looker Studio, with alerts when failures spike above the 4-week baseline. CI runs it against a real PostgreSQL. |
+| [**redmine-issue-reporter**](https://github.com/NurMohammad126641/redmine-issue-reporter) | Weekly support-issue reporting from the Redmine API: pandas summaries per owner and week, team matrix, resolved-by stats, a Jinja2 HTML email and CSV exports. |
+| [**sms-balance-monitor**](https://github.com/NurMohammad126641/sms-balance-monitor) | A Selenium bot that reads SMS-gateway balances (handles OTP, pop-ups and hover-only values) and sends email or Teams alerts. Its browser tests run against a fixture portal in CI. |
+| [**appifylab-social-feed**](https://github.com/NurMohammad126641/appifylab-social-feed) | A full-stack Next.js 16 + Prisma social feed with secure cookie sessions, public and private posts, nested comments and likes. |
+
+The first three are public rewrites of tools I built at TallyKhata. They use synthetic data only, and every credential comes from environment variables.
+
 Before Padakhep, at **TallyKhata (Progoti Systems)**, I supported Bangla QR payments for 100K+ merchants across NPSB, bKash, Rocket and 30+ banks, and built KPI and fraud-detection dashboards that improved visibility by 80%.
 
 ### 🛠️ Tech stack
