@@ -13,7 +13,7 @@ For 2.5+ years I've built Python automation, data pipelines and AI-powered tools
 - **n8n Workflows**: daily end-of-day reports to management, plus real-time alerts when a system goes down.
 - **Central PostgreSQL Data Warehouse** *(in progress)*: Python ETL/ELT pipelines bringing multi-source financial data together.
 
-> These systems run in production at work, so their code is private. Here is what two of them look like (the Metabase screenshot uses demo data):
+> These systems run in production at work, so their code is private. Here is what two of them look like (the screenshots use demo data):
 
 <table>
   <tr>
