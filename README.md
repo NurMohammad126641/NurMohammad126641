@@ -6,7 +6,7 @@ For 2.5+ years I've built Python automation, data pipelines and AI-powered tools
 
 ### 🚀 Highlights
 
-- **Overdue Tracking Platform**: built as sole engineer on Django REST Framework, PostgreSQL, Celery, Redis, nginx and PgBouncer, with Claude Code as my AI pair-programmer. Replaced SharePoint/Excel tracking across 406 branches for 4,000+ users and cut heavy page loads from 10s+ to under 1s.
+- **Overdue Tracking Platform**: built as sole engineer on Django REST Framework, PostgreSQL, Celery, Redis, nginx and PgBouncer, with Claude Code as my AI pair-programmer. Replaced SharePoint/Excel tracking across 406 branches for 4,000+ users and cut heavy page loads from 10+ to under 1 second.
 - **AI Analytics Chatbot**: Gemini with agentic workflows inside the reporting dashboard. Anyone can ask for a chart in plain English.
 - **Branch Report Automation**: pulls all 406 branches in parallel with self-healing recovery into a ~730K-row, 100%-accurate master report. A 2–3 day job now takes under 2 hours.
 - **Metabase Microfinance Dashboard**: live portfolio, collection and disbursement tracking on a partitioned PostgreSQL warehouse synced from production every 10 minutes. One screen replaced 10+ Excel files for 50+ executives.
