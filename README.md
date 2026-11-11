@@ -2,14 +2,14 @@
 
 **Data, BI & Automation Engineer** · Dhaka, Bangladesh
 
-I build Python automation, data pipelines and AI-powered tools for fintech and microfinance. At **Padakhep Manabik Unnayan Kendra**, my systems serve **406 branches** and **4,000+ users**.
+For 2.5+ years I've built Python automation, data pipelines and AI-powered tools for fintech and microfinance. At **Padakhep Manabik Unnayan Kendra**, my systems serve **406 branches** and **4,000+ users**.
 
 ### 🚀 Highlights
 
-- **Overdue Tracking Platform**: Django REST Framework, PostgreSQL, Celery and Redis. Replaced manual Excel workflows across 406 branches for 4,000+ users.
+- **Overdue Tracking Platform**: built as sole engineer on Django REST Framework, PostgreSQL, Celery, Redis, nginx and PgBouncer, with Claude Code as my AI pair-programmer. Replaced SharePoint/Excel tracking across 406 branches for 4,000+ users and cut heavy page loads from 10s+ to under 1s.
 - **AI Analytics Chatbot**: Gemini with agentic workflows inside the reporting dashboard. Anyone can ask for a chart in plain English.
 - **Branch Report Automation**: pulls all 406 branches in parallel with self-healing recovery into a ~730K-row, 100%-accurate master report. A 2–3 day job now takes under 2 hours.
-- **Metabase Microfinance Dashboard**: live portfolio, collection and disbursement tracking on a partitioned PostgreSQL backend. One screen replaces 10+ Excel files.
+- **Metabase Microfinance Dashboard**: live portfolio, collection and disbursement tracking on a partitioned PostgreSQL warehouse synced from production every 10 minutes. One screen replaced 10+ Excel files for 50+ executives.
 - **n8n Workflows**: daily end-of-day reports to management, plus real-time alerts when a system goes down.
 - **Central PostgreSQL Data Warehouse** *(in progress)*: Python ETL/ELT pipelines bringing multi-source financial data together.
 
@@ -43,12 +43,12 @@ Before Padakhep, at **TallyKhata (Progoti Systems)**, I supported Bangla QR paym
 
 | Area | Tools |
 |---|---|
-| Backend | Python, SQL, Django, Django REST Framework, REST APIs, Celery, Redis |
-| Data | PostgreSQL, MySQL, BigQuery, ETL/ELT, Data Warehousing, Pandas |
-| AI & Agents | Gemini API, LLM integration, Agentic workflows, n8n |
+| Backend | Python, SQL, Django, Django REST Framework, REST APIs, Celery, Redis, nginx, PgBouncer |
+| Data | PostgreSQL, MySQL, BigQuery, ETL/ELT, Data Warehousing, Pandas, Excel (Power Query, Pivot Tables, XLOOKUP) |
+| AI & Agents | Gemini API, LLM integration, Agentic workflows, n8n, Claude Code (AI-assisted development) |
 | Automation | Selenium, Playwright, BeautifulSoup, Headless browsers |
 | BI | Power BI, Metabase, Looker Studio |
-| DevOps & Testing | Docker, Gunicorn, Git, Postman, JMeter |
+| DevOps & Testing | Docker, Gunicorn, Git, GitHub, GitHub Actions, Linux, Postman, JMeter |
 
 ### 📜 Certifications
 
@@ -58,4 +58,4 @@ Before Padakhep, at **TallyKhata (Progoti Systems)**, I supported Bangla QR paym
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/nur-mohammad-siddiq-9a73931b6) · rabbins.eng@gmail.com
+[Portfolio](https://nurmohammad126641.github.io) · [LinkedIn](https://www.linkedin.com/in/nur-mohammad-siddiq-9a73931b6) · rabbins.eng@gmail.com
